@@ -64,3 +64,5 @@ With all of these great online resources, the hardest thing will be choosing wha
 *[Modern CPP design](http://gen.lib.rus.ec/book/index.php?md5=9D2428FD8E7F91BD6801DA7E3DA62DB5)
 
 *[Python Beginner](http://gen.lib.rus.ec/book/index.php?md5=8B7F9439FF75AEAC89B8748BDBC1E1D3)
+
+*[Linux Fundamentals](https://linux-training.be/linuxfun.pdf)
